@@ -3,7 +3,7 @@
         "device_id": "device123",
         "key": "key12345",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
@@ -14,8 +14,8 @@
     
     {
         "device_id": "674d0cc2d8019f26",
-        "key": "Gerykey1",
+        "key": "Gerykey123",
         "expirydate": "10-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
